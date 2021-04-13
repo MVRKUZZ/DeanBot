@@ -34,7 +34,8 @@ O Dean Bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/te
 
 ```
 git clone https://github.com/MVRKUZZ/DeanBot.git
-cd Dean Bot
+cd DeanBot 
+cd Dean-Bot-master
 bash install.sh
 npm install
 
